@@ -206,4 +206,5 @@ fiddling, you can buy me a coffee.
 ---
 
 Built by **Rakan Alkhaldi** · MIT · [Third-party credits and licences](THIRD_PARTY_NOTICES.md)
+
 Fuck you every day!!!
